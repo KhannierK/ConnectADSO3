@@ -1,0 +1,52 @@
+{
+  "A1": {
+    "propietario": "Ana Martinez",
+    "pago": true,
+    "residentes": true
+  },
+  "B2": {
+    "propietario": "Marta Lopez",
+    "pago": true,
+    "residentes": true
+  },
+  "C3": {
+    "propietario": "Sofia Diaz",
+    "pago": true,
+    "residentes": true
+  },
+  "B3": {
+    "propietario": "Pedro Sanchez",
+    "pago": true,
+    "residentes": false
+  },
+  "A3": {
+    "propietario": "Laura Torres",
+    "pago": true,
+    "residentes": true
+  },
+  "A4": {
+    "propietario": "Sebastian Diaz",
+    "pago": true,
+    "residentes": true
+  },
+  "A5": {
+    "propietario": "Dilan Cerinza",
+    "pago": true,
+    "residentes": false
+  },
+  "C1": {
+    "propietario": "Elena Fernandez",
+    "pago": true,
+    "residentes": true
+  },
+  "B1": {
+    "propietario": "Luis Ramirez",
+    "pago": true,
+    "residentes": false
+  },
+  "C2": {
+    "propietario": "Miguel Hernandez",
+    "pago": true,
+    "residentes": false
+  }
+}
